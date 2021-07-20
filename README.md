@@ -1,6 +1,8 @@
-<h1 align="center">Hello, I'm Lorena</h1>
+<h1 align="center">Hello, I'm Lorena :relaxed: </h1>
 
-📄 I’m currently learning **HTML5 and CSS3**
+:round_pushpin: Rio de Janeiro, BR <br>
+:computer: Learning **HTML5 and CSS3** <br>
+:heart: Travel, Harry Potter and the GazettE <br>
 
 
 
